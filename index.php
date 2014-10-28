@@ -32,55 +32,247 @@
 
                 <h2>Timeline</h2>
 
-                <h3>October 2014</h3>
-                <ul>
-                    <li>14.10.2014: 705.061 Systemnahe Programmierung, 1. Abgabe</li>
-                    <li>21.10.2014: 705.061 Systemnahe Programmierung, 2. Abgabe</li>
-                    <li>21.10.2014?: 716.032 Entwurf und Analyse von Algorithmen, 1. Abgabe</li>
-                    <li>28.10.2014: 705.061 Systemnahe Programmierung, 3. Abgabe</li>
-                    <li>28.10.2014?: 716.032 Entwurf und Analyse von Algorithmen, 2. Abgabe</li>
-                </ul>
-
-                <h3>November 2014</h3>
-                <ul>
-                    <li>04.11.2014: 705.061 Systemnahe Programmierung, 4. Abgabe</li>
-                    <li>04.11.2014?: 716.032 Entwurf und Analyse von Algorithmen, 3. Abgabe</li>
-                    <li>05.11.2014: 705.025 Sicherheitsaspekte in der Softwareentwicklung, 1. Abgabe</li>
-                    <li>06/07.11.2014: 705.025 Sicherheitsaspekte in der Softwareentwicklung, 1. mündliche Prüfung</li>
-                    <li>11.11.2014?: 716.032 Entwurf und Analyse von Algorithmen, 4. Abgabe</li>
-                    <li>11.11.2014: 705.061 Systemnahe Programmierung, 5. Abgabe</li>
-                    <li>18.11.2014?: 716.032 Entwurf und Analyse von Algorithmen, 5. Abgabe</li>
-                    <li>18.11.2014: 705.061 Systemnahe Programmierung, 6. Abgabe</li>
-                    <li>25.11.2014: 501.072 Numerisches Rechnen und lineare Algebra, 1. Test, nicht angemeldet</li>
-                    <li>25.11.2014?: 716.032 Entwurf und Analyse von Algorithmen, 6. Abgabe</li>
-                </ul>
-
-                <h3>December 2014</h3>
-                <ul>
-                    <li>02.12.2014?: 716.032 Entwurf und Analyse von Algorithmen, 7. Abgabe</li>
-                    <li>02.12.2014: 705.061 Systemnahe Programmierung, 7. Abgabe</li>
-                    <li>03.12.2014: 705.025 Sicherheitsaspekte in der Softwareentwicklung, 2. Abgabe</li>
-                    <li>04/05.12.2014: 705.025 Sicherheitsaspekte in der Softwareentwicklung, 2. mündliche Prüfung</li>
-                    <li>09.12.2014?: 716.032 Entwurf und Analyse von Algorithmen, 8. Abgabe</li>
-                    <li>09.12.2014: 705.061 Systemnahe Programmierung, 8. Abgabe</li>
-                    <li>16.12.2014?: 716.032 Entwurf und Analyse von Algorithmen, 9. Abgabe</li>
-                    <li>16.12.2014: 705.061 Systemnahe Programmierung, 9. Abgabe</li>
-                </ul>
-
-                <h3>January 2015</h3>
-                <ul>
-                    <li>08.01.2015: 705.025 Sicherheitsaspekte in der Softwareentwicklung, 3. Abgabe</li>
-                    <li>18.01.2015: 705.025 Sicherheitsaspekte in der Softwareentwicklung, 4. Abgabe</li>
-                    <li>20.01.2015: 501.072 Numerisches Rechnen und lineare Algebra, 2. Test, nicht angemeldet</li>
-                    <li>(21-23).01.2015: 705.025 Sicherheitsaspekte in der Softwareentwicklung, 3. mündliche Prüfung</li>
-                    <li>30.01.2015: 705.024 Sicherheitsaspekte in der Softwareentwicklung, Prüfung, nicht angemeldet</li>
-                    <li>29.01.2015: 707.003 Knowledge Discovery and Data Mining 1, Prüfung</li>
-                </ul>
-
-                <h3>February 2015</h3>
-                <ul>
-                    <li>02.02.2015: 373.322 Buchhaltung und Bilanzierung, Prüfung, nicht angemeldet</li>
-                </ul>
+                <table style="width: 100%;">
+                    <tr>
+                        <th>date</th>
+                        <th>course nr.</th>
+                        <th>course name</th>
+                        <th>what</th>
+                        <th>registered</th>
+                    </tr>
+                    <tr>
+                        <th colspan="5"><h3>October 2014</h3></th>
+                    </tr>
+                    <tr>
+                        <td><del>14.10.2014</del></td>
+                        <td>705.061</td>
+                        <td>Systemnahe Programmierung</td>
+                        <td>1. Assignment</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td><del>21.10.2014</del></td>
+                        <td>705.061</td>
+                        <td>Systemnahe Programmierung</td>
+                        <td>2. Assignment</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td><del>21.10.2014</del></td>
+                        <td>716.032</td>
+                        <td>Entwurf und Analyse von Algorithmen</td>
+                        <td>1. Assignment</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>28.10.2014</td>
+                        <td>705.061</td>
+                        <td>Systemnahe Programmierung</td>
+                        <td>3. Assignment</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>28.10.2014</td>
+                        <td>716.032</td>
+                        <td>Entwurf und Analyse von Algorithmen</td>
+                        <td>2. Assignment</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <th colspan="5"><h3>November 2014</h3></th>
+                    </tr>
+                    <tr>
+                        <td>04.11.2014</td>
+                        <td>705.061</td>
+                        <td>Systemnahe Programmierung</td>
+                        <td>4. Assignment</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>04.11.2014</td>
+                        <td>716.032</td>
+                        <td>Entwurf und Analyse von Algorithmen</td>
+                        <td>3. Assignment</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>05.11.2014</td>
+                        <td>705.025</td>
+                        <td>Sicherheitsaspekte in der Softwareentwicklung</td>
+                        <td>1. Assignment</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>06/07.11.2014</td>
+                        <td>705.025</td>
+                        <td>Sicherheitsaspekte in der Softwareentwicklung</td>
+                        <td><strong>1. oral exam</strong></td>
+                        <td>don't have to?</td>
+                    </tr>
+                    <tr>
+                        <td>10.11.2014</td>
+                        <td>501.072</td>
+                        <td>Numerisches Rechnen und lineare Algebra</td>
+                        <td>1. Assignment</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>11.11.2014</td>
+                        <td>716.032</td>
+                        <td>Entwurf und Analyse von Algorithmen</td>
+                        <td>4. Assignment</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>11.11.2014</td>
+                        <td>705.061</td>
+                        <td>Systemnahe Programmierung</td>
+                        <td>5. Assignment</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>18.11.2014</td>
+                        <td>716.032</td>
+                        <td>Entwurf und Analyse von Algorithmen</td>
+                        <td>5. Assignment</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>18.11.2014</td>
+                        <td>705.061</td>
+                        <td>Systemnahe Programmierung</td>
+                        <td>6. Assignment</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>25.11.2014</td>
+                        <td>501.072</td>
+                        <td>Numerisches Rechnen und lineare Algebra</td>
+                        <td><strong>1. Exam</strong></td>
+                        <td>yes</td>
+                    </tr>
+                    <tr>
+                        <td>25.11.2014</td>
+                        <td>716.032</td>
+                        <td>Entwurf und Analyse von Algorithmen</td>
+                        <td>6. Assignment</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <th colspan="5"><h3>December 2014</h3></th>
+                    </tr>
+                    <tr>
+                        <td>02.12.2014</td>
+                        <td>716.032</td>
+                        <td>Entwurf und Analyse von Algorithmen</td>
+                        <td>7. Assignment</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>02.12.2014</td>
+                        <td>705.061</td>
+                        <td>Systemnahe Programmierung</td>
+                        <td>7. Assignment</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>03.12.2014</td>
+                        <td>705.025</td>
+                        <td>Sicherheitsaspekte in der Softwareentwicklung</td>
+                        <td>2. Assignment</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>04/05.12.2014</td>
+                        <td>705.025</td>
+                        <td>Sicherheitsaspekte in der Softwareentwicklung</td>
+                        <td><strong>2. oral exam</strong></td>
+                        <td>don't have to?</td>
+                    </tr>
+                    <tr>
+                        <td>09.12.2014</td>
+                        <td>716.032</td>
+                        <td>Entwurf und Analyse von Algorithmen</td>
+                        <td>8. Assignment</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>09.12.2014</td>
+                        <td>705.061</td>
+                        <td>Systemnahe Programmierung</td>
+                        <td>8. Assignment</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>16.12.2014</td>
+                        <td>716.032</td>
+                        <td>Entwurf und Analyse von Algorithmen</td>
+                        <td>9. Assignment</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>16.12.2014</td>
+                        <td>705.061</td>
+                        <td>Systemnahe Programmierung</td>
+                        <td>9. Assignment</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <th colspan="5"><h3>January 2015</h3></th>
+                    </tr>
+                    <tr>
+                        <td>08.01.2015</td>
+                        <td>705.025</td>
+                        <td>Sicherheitsaspekte in der Softwareentwicklung</td>
+                        <td>3. Assignment</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>18.01.2015</td>
+                        <td>705.025</td>
+                        <td>Sicherheitsaspekte in der Softwareentwicklung</td>
+                        <td>4. Assignment</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>20.01.2015</td>
+                        <td>501.072</td>
+                        <td>Numerisches Rechnen und lineare Algebra</td>
+                        <td><strong>2. Exam</strong></td>
+                        <td>no</td>
+                    </tr>
+                    <tr>
+                        <td>(21-23).01.2015</td>
+                        <td>705.025</td>
+                        <td>Sicherheitsaspekte in der Softwareentwicklung</td>
+                        <td><strong>3. oral exam</strong></td>
+                        <td>don't have to?</td>
+                    </tr>
+                    <tr>
+                        <td>30.01.2015</td>
+                        <td>705.024</td>
+                        <td>Sicherheitsaspekte in der Softwareentwicklung</td>
+                        <td><strong>exam</strong></td>
+                        <td>no</td>
+                    </tr>
+                    <tr>
+                        <td>29.01.2015</td>
+                        <td>707.003</td>
+                        <td>Knowledge Discovery and Data Mining 1</td>
+                        <td><strong>Exam</strong></td>
+                        <td>no</td>
+                    </tr>
+                    <tr>
+                        <th colspan="5"><h3>February 2015</h3></th>
+                    </tr>
+                    <tr>
+                        <td>02.02.2015</td>
+                        <td>373.322</td>
+                        <td>Buchhaltung und Bilanzierung</td>
+                        <td><strong>Exam</strong></td>
+                        <td>no</td>
+                    </tr>
+                </table>
 
 
                 <h2>Progress</h2>
